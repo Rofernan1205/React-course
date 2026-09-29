@@ -1,0 +1,14 @@
+// Fuente global
+$font-family-sans-serif: 'Inter', system-ui, -apple-system, sans-serif;
+
+// Variables de color personalizadas
+$primary: #6366f1;       // Indigo / Violeta
+$secondary: #64748b;     // Slate
+$success: #10b981;       // Esmeralda
+$dark: #0f172a;
+$light: #f8fafc;
+
+// Bordes y formas
+$body-bg: $primary;
+$body-color: $light;
+$border-radius: 0.75rem;
